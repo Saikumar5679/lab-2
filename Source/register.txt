@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="regstyle.css">
+</head>
+<body background=" http://www.tokkoro.com/picsup/3056884-blur_flower_indoors_keyboard_table_technology_white_wooden_work_workplace_workspace.jpg"></body>
+<h2 style="text-align: center" >Registration Page</h2>
+
+<div class="form" style="text-align: center">
+
+    <p> Please enter your details to register</p>
+    <form>
+        First Name:
+        <input type="text" name="firstname"><br>
+        <br>
+        Last Name:
+        <input type="text" name="lastname"><br>
+        <br>
+        User Name:
+        <input type="text" name="Username"><br>
+        <br>
+        Password:
+        <input type="text" name="pwd"><br>
+        <br>
+        email:
+        <input type="text" name="email"><br>
+        Are you male or female?<br>
+        <input type="radio" name="sex" value="male">Male
+        <input type="radio" name="sex" value="female">Female<br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+<br>
+<div class="btns" style="text-align: end">
+    <a href="home.html" class="btn btn-primary btn-lg btn1" >back</a>
+</div>
+</html>

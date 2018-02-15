@@ -1,0 +1,81 @@
+<!-- About -->
+<div id="about" class="section md-padding">
+
+    <!-- Container -->
+    <div class="container">
+
+        <!-- Row -->
+        <div class="row">
+
+            <!-- Section header -->
+            <div class="section-header text-center">
+                <h2 class="title">Augmented Reality - Entertainment and education</h2>
+            </div>
+            <!-- /Section header -->
+
+            <!-- about -->
+
+            <p>
+            <h2>Statements</h2>
+            <ul>
+                <li>This app uses the youtube api and IBM visual text api to convert the hovered images in to a 3d model which is used to enhance the education and also used for entertainment purpose mainly for the beginners.
+                </li><br>
+                <li>This also mainly focuses on the further developement of the applications for the educaional purpose and entertainment purpose .
+                <br>
+            </ul>
+            </p>
+
+        </div>
+
+<div class="col-sm-3" >
+                <div class="contact">
+                    <h3>Name</h3>
+                    <p>Sai indra kumar</p>
+                    <h3>Class ID</h3>
+                    <p>10</p>
+                    <h3>Email</h3>
+                    <p>nkmrf@mail.umkc.edu</p>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="contact">
+
+                    <h3>Name</h3>
+                    <p>Sravya</p>
+                    <h3>Class ID</h3>
+                    <p>25</p>
+                    <h3>Email</h3>
+                    <p>sravyapara@gmail.com</p>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="contact">
+
+                    <h3>Name</h3>
+                    <p>Sasslean</p>
+                    <h3>Class ID</h3>
+                    <p>35</p>
+                    <h3>Email</h3>
+                    <p>sscpm@mail.umkc.edu</p>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="contact">
+                    <h3>Name</h3>
+                    <p>pratyusha </p>
+                    <h3>Class ID</h3>
+                    <p>22</p>
+                    <h3>Email</h3>
+                    <p>sndkm@mail.umkc.edu</p>
+                </div>
+            </div>
+
+
+script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
